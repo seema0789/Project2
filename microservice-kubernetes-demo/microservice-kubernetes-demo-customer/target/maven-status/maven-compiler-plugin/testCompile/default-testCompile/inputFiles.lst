@@ -1,0 +1,5 @@
+/home/aartgp1_gmail_com/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/CustomerTestApp.java
+/home/aartgp1_gmail_com/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/CustomerClient.java
+/home/aartgp1_gmail_com/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/CustomerWebIntegrationTest.java
+/home/aartgp1_gmail_com/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/CustomerConsumerDrivenContractTest.java
+/home/aartgp1_gmail_com/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/Customer.java
